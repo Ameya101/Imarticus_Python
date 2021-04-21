@@ -1,3 +1,3 @@
 # Imarticus_Python
 Projects
-# contributors - Ameya Jajulwar 
+# Contributors - Ameya Jajulwar 
